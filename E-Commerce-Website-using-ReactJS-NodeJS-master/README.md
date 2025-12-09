@@ -3,16 +3,16 @@ A E-Commerce website developed using ReactJS for the frontend, NodeJs for the ba
 
 
 ## Table of contents
-* [Prerequisites](#prerequisites)
+
 * [Requirements](#requirements)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Contact](#contact)
+
 
 
 ## Prerequisites
-- Text Editor ([VS Code](https://code.visualstudio.com/download) , [Atom](https://atom.io/), [Brackets](http://brackets.io/), etc.)
+
 - Node.js and npm - [install here](https://www.npmjs.com/get-npm)
 - MongoDB - [install here](https://docs.mongodb.com/manual/installation/)
 
@@ -120,5 +120,4 @@ ________________________________________________________
 ________________________________________________________
 
 
-## Contact
-[Suhas Suhas](https://www.suhassalian.netlify.com/) - feel free to contact me!
+
