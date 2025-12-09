@@ -11,12 +11,6 @@ A E-Commerce website developed using ReactJS for the frontend, NodeJs for the ba
 
 
 
-## Prerequisites
-
-- Node.js and npm - [install here](https://www.npmjs.com/get-npm)
-- MongoDB - [install here](https://docs.mongodb.com/manual/installation/)
-
-
 ## Requirements
 To run this project, install it locally using npm:
 
